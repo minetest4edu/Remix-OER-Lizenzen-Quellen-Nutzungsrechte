@@ -15,6 +15,7 @@ Das ganze Paket passt also wunderbar zu kreativen Bildungsprozessen mit Medien!
 Alle Materialien und Text auf MinetestEdu stehen deshalb, soweit nicht ausdrücklich anders vermerkt unter der Lizenz
 Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)
 
+
 https://creativecommons.org/licenses/by-sa/4.0/deed.de
 ![CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/200px-CC-BY-SA_icon.svg.png)
 
@@ -32,15 +33,13 @@ womit eine optimale Anpassung, Veränderung und Weiterentwicklung gewährleistet
 ... vergleichbar etwas mit dem "Remixen" von Bildungsmatierialien!
 
 
-... das kommt selbst in unserem "vorläufigen" LOGO zum Einsatz
+... das kommt selbst in unserem (vorläufigen) LOGO zum Einsatz
+
+![Minetestedu-Logo](https://avatars2.githubusercontent.com/u/31457299?s=200&v=4)
 
 
-https://avatars2.githubusercontent.com/u/31457299?s=200&v=4
-
-
-.. hier ist etwa das OER-LOGO verwendet:
-
-https://commons.wikimedia.org/wiki/File:OER_Logo_Open_Educational_Resources.png
+.. hier ist wiederum das OER-LOGO verwendet:
+![Minetestedu-Logo](https://commons.wikimedia.org/wiki/File:OER_Logo_Open_Educational_Resources.png
 
 ... erstellt von Tjane Hartenstein (WMDE) (talk | contribs)
 
@@ -49,20 +48,40 @@ https://commons.wikimedia.org/wiki/File:OER_Logo_Open_Educational_Resources.png
 https://creativecommons.org/licenses/by-sa/4.0/deed.en
 
 ... ist also wie im Märchen: sowohl die Software, als auch die damit Produzierten Artefakte, Welten etc. ... als auch sämlichen Texte, Bilder, Videos etc. sind "open Educational Resources" im besten Sinne.
+
 Sie als Nutzer dürfen:
 
 
 Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten
+
 Bearbeiten — das Material remixen, verändern und darauf aufbauen
-und zwar für beliebige Zwecke, sogar kommerziell. 
+
+und zwar für beliebige Zwecke, sogar kommerziell.
+
 De Zusatz: SA bedeutet "share alike" .. und schränkt die Verwendung ein in dem Sinne, dass die Lizenz nicht geändert werden darf
 Die Weitergabe und Veränderungen dieser Materiualien unterliegt folgenden Bedingungen:
 
+
 Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
+
 
 Weitergabe unter gleichen Bedingungen — Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten.
 
+
  Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+ 
+ 
+Zum steht selbst diese Beschreibung der Lizenzen wiederum unter einer freien Lizenz ...
+
+https://avatars2.githubusercontent.com/u/31457299?s=200&v=4
+"Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license. Icons by The Noun Project."
+
+... sonst könnte ist sie ja gar nicht hier einfügen ...
+
+... womit sich die Katze in den Schwanz beißt :-)
+
+
+
 
 
 
