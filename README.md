@@ -26,5 +26,29 @@ https://avatars2.githubusercontent.com/u/31457299?s=200&v=4
 
 .. hier ist etwa das OER-LOGO verwendet:
 https://commons.wikimedia.org/wiki/File:OER_Logo_Open_Educational_Resources.png
-.. das auch wiederum unter einer entsoprechenden CC-Lizenz steht:
+... erstellt von Tjane Hartenstein (WMDE) (talk | contribs)
+.. das auch wiederum unter einer entsprechenden CC-by-SA-4.0-Lizenz steht :-)
+https://creativecommons.org/licenses/by-sa/4.0/deed.en
+
+... ist also wie im Märchen: sowohl die Software, als auch die damit Produzierten Artefakte, Welten etc. ... als auch sämlichen Texte, Bilder, Videos etc. sind "open Educational Resources" im besten Sinne.
+Sie als Nutzer dürfen:
+
+Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten
+Bearbeiten — das Material remixen, verändern und darauf aufbauen
+und zwar für beliebige Zwecke, sogar kommerziell. 
+De Zusatz: SA bedeutet "share alike" .. und schränkt die Verwendung ein in dem Sinne, dass die Lizenz nicht geändert werden darf
+Die Weitergabe und Veränderungen dieser Materiualien unterliegt folgenden Bedingungen:
+
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
+
+Weitergabe unter gleichen Bedingungen — Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten.
+
+ Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+
+
+
+
+
+
+
 
