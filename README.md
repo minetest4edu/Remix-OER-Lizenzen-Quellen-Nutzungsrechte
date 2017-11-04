@@ -126,8 +126,10 @@ in einer älteren Version ( 8.5.2014)in Tabellenform aufgelistet:
 
 http://tausend-medien.de/2014/unterschiede-der-minecraft-versionen/
 
-Lizenz dieser Text:
+Lizenz dieser Texte:
+
 "Die einzelnen Texte (falls nicht anders gekennzeichnet) unterliegen einer Creative Commons-Lizenz (cc:by:sa)"
+
 http://tausend-medien.de/about-me/
 
 
