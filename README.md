@@ -17,12 +17,14 @@ Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-S
 
 
 https://creativecommons.org/licenses/by-sa/4.0/deed.de
+
 ![CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/200px-CC-BY-SA_icon.svg.png)
 
 Minetest selbst https://www.minetest.net/ wird entwickelt unter der bei Open-Source software üblichen GNU-Lizenz
 "LGPL 2.1 or later"
 
 Die näheren Features, Vor- und Nachteile dieser Lizensierung werden in diesem WikiPedia-Artikel erklärt:
+
 
 https://de.wikipedia.org/wiki/GNU_Lesser_General_Public_License
 
