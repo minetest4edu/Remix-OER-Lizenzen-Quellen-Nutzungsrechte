@@ -117,7 +117,21 @@ c) die Lizenzbedingungen ( ein Office 365 Account für jeden Teilnehmer / Schül
 
 ... insofern stellt der Verkauf von Minecraft an Microsoft eine Art "Sündenfall" in der Lizensierungspolitik von Bildungssoftware dar, setzt dabei aber gleichzeitig starke community-basierte Kooperationen und gemeinschaftliche Entwicklung von Alternativen frei :-)
 
-Detaillierter werden die verschiedenen Systeme sehr schön von Ulroivh Tausend beschrieben:
+Detaillierter werden die verschiedenen Systeme sehr schön von Ulrich Tausend beschrieben:
+http://tausend-medien.de/2016/minecraft-education-edition/
+
+in einer älteren Version ( 8.5.2014)in Tabellenform aufgelistet:
+
+http://tausend-medien.de/2014/unterschiede-der-minecraft-versionen/
+
+Lizenz dieser Text:
+"Die einzelnen Texte (falls nicht anders gekennzeichnet) unterliegen einer Creative Commons-Lizenz (cc:by:sa)"
+http://tausend-medien.de/about-me/
+
+
+
+
+
 
 
 
