@@ -32,7 +32,7 @@ https://de.wikipedia.org/wiki/GNU_Lesser_General_Public_License
 
 womit eine optimale Anpassung, Veränderung und Weiterentwicklung gewährleistet wird :-)
 
-... vergleichbar etwas mit dem "Remixen" von Bildungsmatierialien!
+... vergleichbar etwa mit dem "Remixen" von freien Bildungsmatierialien!
 
 
 ... das kommt selbst in unserem (vorläufigen) LOGO zum Einsatz
@@ -131,6 +131,19 @@ Lizenz dieser Texte:
 "Die einzelnen Texte (falls nicht anders gekennzeichnet) unterliegen einer Creative Commons-Lizenz (cc:by:sa)"
 
 http://tausend-medien.de/about-me/
+
+Die Plattform GitBook, die wir für Dokumentationen, Anleitungen und didaktische Bausteine zum Einsatz von Minetest im Bildungsbereich benutzen,  steht unter der Apache-2.0-Lizenz:
+https://github.com/GitbookIO/gitbook/blob/master/LICENSE
+
+näheres dazu im Github Resosotory:
+
+https://github.com/GitbookIO/gitbook
+
+Dokumentation Gitbook:
+https://toolchain.gitbook.com/
+
+
+
 
 
 
