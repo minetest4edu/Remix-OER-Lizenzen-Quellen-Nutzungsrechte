@@ -80,6 +80,46 @@ https://avatars2.githubusercontent.com/u/31457299?s=200&v=4
 
 ... womit sich die Katze in den Schwanz beißt :-)
 
+Im Vergleich:
+
+Die Lizenz des "alten" MinecraftEdu, das in gewissen Sinne (unerreichbares :-) Vorbild für MinetestEdu ist:
+Wir entwickeln MinetestEDU angelehnt an Minecraft-Edu, einer Initiative amerikanischer Lehrer seit 2011 zum Einsatz von Minecraft in der Schule ... 
+Die Entwickler hinter MinecraftEdu sind:
+
+Aleksi Postari (@Kulttuuri) and Toni Paavola (@Tonsse).
+Die Firma TeacherGaming, LLC ist von dem ursprünglichen Minecraft Unternehmen Mojang autorisiert worden MinecraftEdu zu entwickeln und an die Endbenutzer nach einem Lizenzmodell zu verkaufen - für "non-profit educational organisations" ... wie  Schule und kulturellen Einrichrtungen (wie Büchereien, Museen...)
+
+Einzelheiten sind hier beschrieben:
+
+https://wiki.education.minecraft.net/wiki/Getting_started#Start_using_MinecraftEdu
+
+Die lizenzen gelten nicht für Einzelnutzer persönlich oder für Computer, sondern ausdrücklich für "gleichzeitig arbeitende Nutzer" ...
+und sind - ähnlich wie bei Minecraft - einmal zu entrichten, ohne weitere Kosten zu verursachen.
+
+Vor dem Verkauf an Microsoft waren sie Preise sehr moderat:
+ $18 (unter 25 Teilneher) bzw. $14 (über 25 Teilnehmern) pro Schüler ...
+ Einzelheiteen sind hier beschrieben:
+ 
+ https://hosting.teachergaming.com/faq#question_2-6
+
+
+... seit dem Verkauf von Minecraft an Microsoft wird MinecraftEdu unter veränderten Bedingungen weiterentwickelt
+
+https://www.microsoft.com/de-de/servicesagreement/
+
+
+... ... diese neue MinecraftEdu-Plattform unter Microsoft ist aus verschiedenen Gründen nicht für alle Institutionen und Initiativen optimal: 
+a) alle über die Jahre auf der Basis der "alten" JAVA-Version von Minecraft (bis zu Version 1.7.22) entwickelten Mods, Welten etc. sind unter der neuen MinecraftEDU Version (unter Windows 10 und MacOS) nicht mehr lauffähig :-( 
+
+b) Monentan gibt es - ähnlich der Minecraft-Pocket-Edition überhaupt keine MODS :-(
+
+c) die Lizenzbedingungen ( ein Office 365 Account für jeden Teilnehmer / Schüler) sind für viele schwierig einzurichten :-(
+
+... insofern stellt der Verkauf von Minecraft an Microsoft eine Art "Sündenfall" in der Lizensierungspolitik von Bildungssoftware dar, setzt dabei aber gleichzeitig starke community-basierte Kooperationen und gemeinschaftliche Entwicklung von Alternativen frei :-)
+
+Detaillierter werden die verschiedenen Systeme sehr schön von Ulroivh Tausend beschrieben:
+
+
 
 
 
