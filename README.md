@@ -31,6 +31,8 @@ https://de.wikipedia.org/wiki/GNU_Lesser_General_Public_License
 womit eine optimale Anpassung, Veränderung und Weiterentwicklung gewährleistet wird :-)
 
 ... vergleichbar etwa mit dem "Remixen" von freien Bildungsmatierialien!
+(Das REMIXEN ALS KULTURTECHNIK ist besonders im der MUSIK gebräuchlich: vergleiche die Plattform 
+ccmixter.org
 
 
 ... das kommt selbst in unserem (vorläufigen) LOGO zum Einsatz
