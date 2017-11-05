@@ -31,16 +31,26 @@ https://de.wikipedia.org/wiki/GNU_Lesser_General_Public_License
 womit eine optimale Anpassung, Veränderung und Weiterentwicklung gewährleistet wird :-)
 
 ... vergleichbar etwa mit dem "Remixen" von freien Bildungsmatierialien!
-(Das REMIXEN ALS KULTURTECHNIK ist besonders im der MUSIK gebräuchlich: vergleiche die Plattform 
-ccmixter.org
 
+Das REMIXEN ALS KULTURTECHNIK ist besonders im der MUSIK gebräuchlich: vergleiche die Plattform 
+CCMixter (http://ccmixter.org/)
+Dies ist eine Plattform, auf der über 40.000 Musikerinnen und Musiker aus aller Welt ihre Remixe und Samples zur Verfügung stellen. Diese stehen unter einer CC BY-NC 3.0 US (http://creativecommons. org/licenses/by-nc/3.0/us/deed.de)-Lizenz. Es stehen ebenfalls einige Podcasts und Fotos zur Verfügung.
+Quelle: Spezial OER - Material für alle, hrg. Bundeszentrale für politische Bildung, PDF 151 Seiten, S.45
 
-... das kommt selbst in unserem (vorläufigen) LOGO zum Einsatz
+Lizenz: Creative Commons by-sa/3.0/ (http://creativecommons.org/licenses/by-sa/3.0/)
+
+Dieses Prinzip des Remixens, neu Zusammenstellens, kombinierens ist bei einem Open Word Spiel wie Minecraft oder Minetest, bei dem permanent aus Blöcken Welten neu zusammengesetzt werden .. geradezu grundlegende Produktionsweise - und deshalb als konstruktivistischer Baukasten für kreative Bildungsprozesse bestens geeignet.
+
+... und auch bei unserem communitybasierten Entwiklcungsprojekt ein Produktionsprinzip auf den verschiedensten Ebenenen:
+
+- auf der Eben des Codes, der Modentwicklung
+- beim Zusammenstellen der Materialien, Anleitungen, Didaktischen Hinweisen
+- ... selbst unser (vorläufiges) LOGO ist ein REMIX
 
 ![Minetestedu-Logo](https://avatars2.githubusercontent.com/u/31457299?s=200&v=4)
 
 
-.. hier ist wiederum das OER-LOGO verwendet:
+.. bei dem das bekannte OER-LOGO verwendet wird:
 ![Minetestedu-Logo](https://commons.wikimedia.org/wiki/File:OER_Logo_Open_Educational_Resources.png
 
 ... erstellt von Tjane Hartenstein (WMDE) (talk | contribs)
@@ -50,6 +60,9 @@ ccmixter.org
 https://creativecommons.org/licenses/by-sa/4.0/deed.en
 
 ... ist also wie im Märchen: sowohl die Software, als auch die damit Produzierten Artefakte, Welten etc. ... als auch sämlichen Texte, Bilder, Videos etc. sind "open Educational Resources" im besten Sinne.
+
+Dadurch haben Sie als Nutzer auch die maximalen Rechte an Code und Text, können locker selbst wieder etwas damit Bauen, die Zusammenstellung der Mods an Ihre Bedürfnisse anpassen, Übersetzungen vornehmen ... etc. pp ...
+... eben all die Operationen, die in kreativen & konstruktiven Bildungsprozessen nötig sind!
 
 Sie als Nutzer dürfen:
 
