@@ -1,4 +1,4 @@
-# OER-LIzenzen-Quellen-Branches-Remixe -> OER
+# OER-Lizenzen ermöglichen flexible NUTZUNGSRECHTE für konstruktive MEDIENARBEIT (Quellen-Branches-Remixe)
 
 Die Lizenzfrage von Bildungsmaterialien, aber auch von Hard- und Software, die in medialen Bildungs- und Kultur-Projekten eingesetzt wird, ist nach dem ersten Hype von Tablet-Klassen in den letzten Jahren immer mehr ins Zentrum der bildungs- und kulturpolitischen Debatten getreten ...
 
@@ -34,8 +34,8 @@ womit eine optimale Anpassung, Veränderung und Weiterentwicklung gewährleistet
 
 Das REMIXEN ALS KULTURTECHNIK ist besonders im der MUSIK gebräuchlich: vergleiche die Plattform 
 CCMixter (http://ccmixter.org/)
-Dies ist eine Plattform, auf der über 40.000 Musikerinnen und Musiker aus aller Welt ihre Remixe und Samples zur Verfügung stellen. Diese stehen unter einer CC BY-NC 3.0 US (http://creativecommons. org/licenses/by-nc/3.0/us/deed.de)-Lizenz. Es stehen ebenfalls einige Podcasts und Fotos zur Verfügung.
-Quelle: Spezial OER - Material für alle, hrg. Bundeszentrale für politische Bildung, PDF 151 Seiten, S.45
+Dies ist eine Plattform, auf der über 40.000 Musikerinnen und Musiker aus aller Welt ihre Remixe und Samples zur Verfügung stellen. Diese stehen unter einer CC BY-NC 3.0 US (http://creativecommons. org/licenses/by-nc/3.0/us/deed.de)-Lizenz. Es stehen ebenfalls einige Podcasts und Fotos zur Verfügung.
+Quelle: Spezial OER - Material für alle, hrg. Bundeszentrale für politische Bildung, PDF 151 Seiten, S.45
 
 Lizenz: Creative Commons by-sa/3.0/ (http://creativecommons.org/licenses/by-sa/3.0/)
 
