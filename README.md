@@ -130,6 +130,26 @@ b) Monentan gibt es - ähnlich der Minecraft-Pocket-Edition überhaupt keine MOD
 
 c) die Lizenzbedingungen ( ein Office 365 Account für jeden Teilnehmer / Schüler) sind für viele schwierig einzurichten :-(
 
+In den Microsoft-Servicevertrag 8. Softwarelizenz wird ausdrücklich jeglicher kreativer Umgang untersagt: 
+
+"b. Die Software wird lizenziert, nicht verkauft, und Microsoft behält sich alle Rechte an der Software vor, die von Microsoft in diesen Bestimmungen nicht ausdrücklich gewährt werden. Diese Lizenz räumt Ihnen kein Recht ein, Folgendes zu unternehmen, und es ist Ihnen außer im durch das anwendbare Recht gestatteten Umfang untersagt, Folgendes zu unternehmen:
+
+i. Umgehen oder Unterlaufen von technologischen Schutzmaßnahmen in oder in Verbindung mit der Software oder den Diensten
+
+ii. Disassemblieren, Dekompilieren, Entschlüsseln, Hacken, Emulieren, Verwerten oder Zurückentwickeln (Reverse Engineering) von Software oder sonstigen Aspekten der Dienste, die in den Diensten inbegriffen oder darüber verfügbar sind, es sei denn, dass und nur insoweit die anwendbaren Urheberrechtsgesetze dies ausdrücklich gestatten
+
+iii. Trennen der Komponenten der Software oder Dienste voneinander, um sie auf anderen Geräten zu nutzen
+
+iv. Veröffentlichen, Kopieren, Vermieten, Verleasen, Verkaufen, Exportieren, Importieren, Vertreiben oder Verleihen der Software oder der Dienste, sofern Ihnen dies Microsoft nicht ausdrücklich gestattet
+
+v. Abtreten bzw. Übertragen der Software, von Softwarelizenzen oder Rechten für den Zugriff auf bzw. die Nutzung der Dienste
+
+vi. Verwendung der Dienste in irgendeiner nicht autorisierten Weise, die ihre Nutzung durch eine andere Person beeinträchtigen kann, oder durch die ein Zugriff auf Dienste, Daten, Konten oder Netzwerke ermöglicht wird."
+
+
+
+https://www.microsoft.com/de-de/servicesagreement/
+
 ... insofern stellt der Verkauf von Minecraft an Microsoft eine Art "Sündenfall" in der Lizensierungspolitik von Bildungssoftware dar, setzt dabei aber gleichzeitig starke community-basierte Kooperationen und gemeinschaftliche Entwicklung von Alternativen frei :-)
 
 Detaillierter werden die verschiedenen Systeme sehr schön von Ulrich Tausend beschrieben:
