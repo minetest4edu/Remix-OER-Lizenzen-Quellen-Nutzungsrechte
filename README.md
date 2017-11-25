@@ -108,7 +108,7 @@ Einzelheiten sind hier beschrieben:
 
 https://wiki.education.minecraft.net/wiki/Getting_started#Start_using_MinecraftEdu
 
-Die lizenzen gelten nicht für Einzelnutzer persönlich oder für Computer, sondern ausdrücklich für "gleichzeitig arbeitende Nutzer" ...
+Die Lizenzen gelten nicht für Einzelnutzer persönlich oder für Computer, sondern ausdrücklich für "gleichzeitig arbeitende Nutzer" ...
 und sind - ähnlich wie bei Minecraft - einmal zu entrichten, ohne weitere Kosten zu verursachen.
 
 Vor dem Verkauf an Microsoft waren sie Preise sehr moderat:
@@ -126,7 +126,7 @@ https://www.microsoft.com/de-de/servicesagreement/
 ... ... diese neue MinecraftEdu-Plattform unter Microsoft ist aus verschiedenen Gründen nicht für alle Institutionen und Initiativen optimal: 
 a) alle über die Jahre auf der Basis der "alten" JAVA-Version von Minecraft (bis zu Version 1.7.22) entwickelten Mods, Welten etc. sind unter der neuen MinecraftEDU Version (unter Windows 10 und MacOS) nicht mehr lauffähig :-( 
 
-b) Monentan gibt es - ähnlich der Minecraft-Pocket-Edition überhaupt keine MODS :-(
+b) Momentan gibt es - ähnlich der Minecraft-Pocket-Edition überhaupt keine MODS :-(
 
 c) die Lizenzbedingungen ( ein Office 365 Account für jeden Teilnehmer / Schüler) sind für viele schwierig einzurichten :-(
 
